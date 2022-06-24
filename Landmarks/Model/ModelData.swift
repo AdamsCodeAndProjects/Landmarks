@@ -6,9 +6,14 @@
 //
 
 import Foundation
+import Combine
 
-//  Array of landmarks initialized from the JSON
-var landmarks: [Landmark] = load("landmarkData.json")
+final class ModelData: ObservableObject {
+    //  Array of landmarks initialized from the JSON
+    @Published var landmarks: [Landmark] = load("landmarkData.json")
+}
+
+
 
 
 // Fetches JSON data with a given name from the app's main bundle

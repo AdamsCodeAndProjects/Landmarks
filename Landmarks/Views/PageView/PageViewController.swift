@@ -11,6 +11,8 @@
 import SwiftUI
 import UIKit
 
+
+// UIViewControllerRepresentable bridges UIKit view controllers into SwiftUI
 struct PageViewController<Page: View>: UIViewControllerRepresentable {
     var pages: [Page]
     @Binding var currentPage: Int

@@ -42,6 +42,7 @@
 		66AF6D39286A4E0000BA116A /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AF6D38286A4E0000BA116A /* PageViewController.swift */; };
 		66AF6D3B286A502900BA116A /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AF6D3A286A502900BA116A /* FeatureCard.swift */; };
 		66AF6D3D286A519F00BA116A /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AF6D3C286A519F00BA116A /* PageView.swift */; };
+		66AF6D3F286A590C00BA116A /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AF6D3E286A590C00BA116A /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		66AF6D38286A4E0000BA116A /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		66AF6D3A286A502900BA116A /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		66AF6D3C286A519F00BA116A /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		66AF6D3E286A590C00BA116A /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				66AF6D3A286A502900BA116A /* FeatureCard.swift */,
 				66AF6D38286A4E0000BA116A /* PageViewController.swift */,
 				66AF6D3C286A519F00BA116A /* PageView.swift */,
+				66AF6D3E286A590C00BA116A /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				669411AC286501E400FD6071 /* MapView.swift in Sources */,
 				66AF6D21286A0E4A00BA116A /* GraphCapsule.swift in Sources */,
 				6694119C2864F46600FD6071 /* LandmarksApp.swift in Sources */,
+				66AF6D3F286A590C00BA116A /* PageControl.swift in Sources */,
 				66AF6D14286A05F200BA116A /* RotatedBadgesSymbol.swift in Sources */,
 				66AF6D2B286A1A4F00BA116A /* CategoryItem.swift in Sources */,
 				66AF6D23286A0E4A00BA116A /* HikeDetail.swift in Sources */,

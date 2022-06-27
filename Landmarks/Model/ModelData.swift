@@ -13,6 +13,7 @@ final class ModelData: ObservableObject {
     //  Don't need @Published because youll never modift hike data after initially loading it
     @Published var landmarks: [Landmark] = load("landmarkData.json")
     var hikes: [Hike] = load("hikeData.json")
+    @Published var profile = Profile.default
     
     var features: [Landmark] {
         landmarks.filter { $0.isFeatured }

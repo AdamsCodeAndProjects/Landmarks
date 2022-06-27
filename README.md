@@ -4,12 +4,13 @@
 SwiftUI hiking app with multiple locations to select from
 
 <h1>Featuring</h1>
-* SwiftUI
-* UIKit
-* MapKit
-* MVVM design pattern
-* Multiple toggles / selectors / animations to make a beautifully interactive app
-* Apple tutorial
+* SwiftUI <br>
+* UIKit <br>
+* MapKit <br>
+* MVVM design pattern <br>
+* Multiple toggles / selectors / buttons / animations / views to make a beautifully interactive app <br>
+* Profile edit page <br>
+* Apple tutorial <br>
 
 <h1>Images</h1>
 <img width="293" alt="Screen Shot 2022-06-27 at 5 45 20 PM" src="https://user-images.githubusercontent.com/87610332/176041222-e6e4b4df-dfb4-4748-ab88-fb0c20b21a1f.png">
